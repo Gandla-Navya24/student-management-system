@@ -115,7 +115,7 @@ gender	Text	Gender
 status	Integer	Active (1) / Inactive (0)
 ▶️ Installation & Setup
 Clone the Repository
-git clone https://github.com/your-username/students-management-system.git
+git clone https://github.com/Gandla-Navya24/students-management-system.git
 cd students-management-system
 Create Virtual Environment
 python -m venv venv
